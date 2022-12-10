@@ -14,11 +14,11 @@
 </div>
 
 ### Alguns projetos
-https://sarinha09.github.io/animation-buttons/
-https://sarinha09.github.io/moba-test/
-https://sarinha09.github.io/Pokedex/
-https://sarinha09.github.io/Gerador-de-senha/
-https://sarinha09.github.io/Rel-gio/
-https://sarinha09.github.io/AstroBot/
+https://sarinha09.github.io/animation-buttons/  <br>
+https://sarinha09.github.io/moba-test/ <br>
+https://sarinha09.github.io/Pokedex/ <br>
+https://sarinha09.github.io/Gerador-de-senha/ <br>
+https://sarinha09.github.io/Rel-gio/ <br>
+https://sarinha09.github.io/AstroBot/ <br>
 https://sarinha09.github.io/Digital-Ideia/
 

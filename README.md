@@ -12,12 +12,3 @@
 <img aling="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 </div>
-
-### Alguns projetos
-https://sarinha09.github.io/Tela-de-cadastro/ <br>
-https://sarinha09.github.io/animation-buttons/  <br>
-https://sarinha09.github.io/AstroBot/ <br>
-https://sarinha09.github.io/Gerador-de-senha/ <br>
-https://sarinha09.github.io/Rel-gio/ <br>
-
-

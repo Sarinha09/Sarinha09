@@ -1,6 +1,6 @@
 ### Olá eu sou Sara
 
-[![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/G9G25pYd9R)  [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarinha_089/) 
+[![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/G9G25pYd9R)
  
 ![Meus Status](https://github-readme-stats.vercel.app/api?username=sarinha09&show_icons=true&theme=radical)
 

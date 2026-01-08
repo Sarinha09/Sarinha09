@@ -20,12 +20,12 @@
 
   ---
 
-  ### 📊 Minhas Estatísticas
+### 📊 Minhas Estatísticas
   
   <div align="center">
     <a href="https://github.com/sarinha09">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarinha09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinha09&layout=compact&theme=tokyonight"/>
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=sarinha09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinha09&layout=compact&theme=tokyonight"/>
     </a>
   </div>
 

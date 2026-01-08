@@ -1,14 +1,38 @@
-### Olá eu sou Sara
+<div align="center">
 
-[![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/G9G25pYd9R)
- 
-![Meus Status](https://github-readme-stats.vercel.app/api?username=sarinha09&show_icons=true&theme=radical)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Sara!;Bem-vinda+ao+meu+perfil!+%E2%9C%A8;Desenvolvedora+Python+%26+Java" alt="Typing SVG" />
+  </a>
 
-### Tecnologias que uso
-<div style="display: inline_block"> </br>
-<img aling="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img aling="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img aling="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <p>Estudante de Tecnologia & Desenvolvedora Apaixonada por Código</p>
+
+  <a href="https://discord.gg/G9G25pYd9R">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <br/>
+  
+  ---
+  
+  ### 💻 Tecnologias
+  <div style="display: inline_block">
+    <img src="https://skillicons.dev/icons?i=python,java,cs,html,css,js,git,vscode&perline=8" />
+  </div>
+
+  ---
+
+  ### 📊 Minhas Estatísticas
+  
+  <div align="center">
+    <a href="https://github.com/sarinha09">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarinha09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarinha09&layout=compact&theme=tokyonight"/>
+    </a>
+  </div>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 
 </div>
